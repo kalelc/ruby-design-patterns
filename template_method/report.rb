@@ -39,7 +39,7 @@ class Report
     raise 'Called abstract method: output_body_end'
   end
 
-  def output_output_end
+  def output_end
     raise 'Called abstract method: output_end'
   end
 end
