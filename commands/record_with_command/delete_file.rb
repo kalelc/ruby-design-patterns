@@ -1,4 +1,4 @@
-require_relative 'command'
+require_relative '../common/command'
 
 class DeleteFile < Command
   def initialize(path)

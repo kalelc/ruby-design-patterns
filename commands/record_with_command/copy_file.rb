@@ -1,4 +1,4 @@
-require_relative 'command'
+require_relative '../common/command'
 require 'fileutils'
 
 class CopyFile < Command
